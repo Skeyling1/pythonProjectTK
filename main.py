@@ -13,14 +13,14 @@ def delete_task():
 
 def up_task():
     selected_task_index = task_list.curselection() #2
-    selected_task = task_list.get(selected_task_index) #vvv
+    selected_task = task_list.get(selected_task_index) #получаем индекс
     task_list.delete(selected_task_index)
     for item in selected_task_index:
         task_list.insert(item-1, selected_task)
 
 def down_task():
     selected_task_index = task_list.curselection() #2
-    selected_task = task_list.get(selected_task_index) #vvv
+    selected_task = task_list.get(selected_task_index) #получаем индекс
     task_list.delete(selected_task_index)
     for item in selected_task_index:
         task_list.insert(item+1, selected_task)
