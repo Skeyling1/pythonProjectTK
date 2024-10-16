@@ -1,10 +1,5 @@
 # pythonProjectTK
-## Интерактивный Task list
+Interactive Task list
+Project tasks: An application in which you can enter tasks, highlight completed ones and distribute tasks by priority for completion during the working day.
 
-**Задачи проекта:**
-Приложение, в которое можно вносить задачи, выделять законченные и распределять задачи по приоритету  для выполнения в течении рабочего дня.
-
-
-**Описание проекта:** “Интерактивный Task list” это удобный помощник в организации дел, который позволит лучше и эффективнее распределить время и приоритеты для достижения поставленных целей.
-
-
+Project description: “Interactive Task list” is a convenient assistant in organizing your affairs, which will allow you to better and more effectively distribute your time and priorities to achieve your goals.
